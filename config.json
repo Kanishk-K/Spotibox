@@ -1,0 +1,6 @@
+{
+        "client_id":"YOUR API ID",
+        "client_secret":"YOUR API SECRET",
+        "redirect":"http://localhost:8888/callback",
+        "device_id":"THE DEVICE ID"
+}
