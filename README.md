@@ -1,5 +1,5 @@
 # Spotibox
-Spotibox is a project made by Kanishk Kacholia and Aanchal Singhal. The purpose of Spotibox is to provide users with a seamless way to interface with music through an aesthetically pleasing and intriguing IOT device. Users can create custom cards containing information about their favorite playlists and swipe them across Spotibox to begin playing their music.
+The purpose of Spotibox is to provide users with a seamless way to interface with music through an aesthetically pleasing and intriguing IOT device. Users can create custom cards containing information about their favorite playlists and swipe them across Spotibox to begin playing their music.
 
 <img src="images/20220801_153853.jpg" alt="Spotibox Image">
 
